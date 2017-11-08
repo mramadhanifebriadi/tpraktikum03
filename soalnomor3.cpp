@@ -11,4 +11,9 @@ int main(){
 	int gaber;
 	cout<<"masukan jam kerja anda:"; cin >> jk;
 	cout<<"masukan gajih anda perjam:"; cin >> gp;
+	lembur=jk-40;
+	jamlembur=lembur*1.5;
+	jamkerjatotal=40+jamlembur;
+	gatot=jamkerjatotal*gp;
+	gaber=gatot-(0.15*gatot);
 }
