@@ -9,4 +9,6 @@ int main(){
 	int jamkerjatotal;
 	int gatot;
 	int gaber;
+	cout<<"masukan jam kerja anda:"; cin >> jk;
+	cout<<"masukan gajih anda perjam:"; cin >> gp;
 }
