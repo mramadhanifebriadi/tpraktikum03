@@ -16,4 +16,10 @@ int main(){
 	jamkerjatotal=40+jamlembur;
 	gatot=jamkerjatotal*gp;
 	gaber=gatot-(0.15*gatot);
+	cout <<"jam lembur anda:"<<lembur<<endl;
+	cout <<"bonus dari lembur anda:"<<jamlembur<<endl;
+	cout <<"jam kerja total anda:"<<jamkerjatotal<<endl;
+	cout <<"gajih total anda:"<<gatot<<endl;
+	cout <<"gajih bersih anda di potong pajak:"<<gaber<<endl;
+	
 }
