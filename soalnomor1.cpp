@@ -9,4 +9,5 @@ int main() {
 	
 cout<< "masukan nilai x:"; cin>> x;
 cout<<"masukan nilai y:";cin>>y;
+hasil=x-y;
 }
